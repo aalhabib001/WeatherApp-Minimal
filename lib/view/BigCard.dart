@@ -1,6 +1,5 @@
 import 'package:flutter/material.dart';
 import 'package:weather_icons/weather_icons.dart';
-import 'package:intl/intl.dart';
 
 class BigCard extends StatelessWidget {
   const BigCard({@required this.location,@required this.forecast,@required this.temp,@required this.time,@required this.day,@required this.forecast2,@required this.feelsLike,@required this.forecastIcon});
