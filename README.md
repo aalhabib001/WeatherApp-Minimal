@@ -2,7 +2,7 @@
 A weather App made with flutter.
 Weather data from openweather.com
 
-Screenshots:
+-Screenshots:
 
 ![alt text](https://lh5.googleusercontent.com/wCYBpS8v7pzjxUip6E--zj0H58AsYKqOQW7jTCWqVkJmdFyl1zPujtF_HB8G13Tva3mNXmOpkYC1gET7proxfr7tJ2FeomezQx9QMGONkJjsMjd1FIg=w1280)
 
