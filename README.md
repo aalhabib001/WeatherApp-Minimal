@@ -4,7 +4,6 @@ Weather data from openweather.com
 
 - Screenshots:
 
-![alt text](https://lh5.googleusercontent.com/wCYBpS8v7pzjxUip6E--zj0H58AsYKqOQW7jTCWqVkJmdFyl1zPujtF_HB8G13Tva3mNXmOpkYC1gET7proxfr7tJ2FeomezQx9QMGONkJjsMjd1FIg=w1280)
 - 
 ![alt text](https://github.com/aalhabib001/WeatherApp-Minimal/blob/master/11.jpg)
 
